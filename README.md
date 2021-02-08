@@ -1,11 +1,11 @@
 # carprice_prediction_gcloud
 
 ## Steps involved for the prediction of car selling price
-1- Data understanding and exploration 
-2- Data cleaning
-3- Data preparation: Feature Engineering and Scaling
-4- Feature Selection
-5- Used Random Forest Regressor for prediction and RamdomizedSearchCV for hyperparametric tuning
+* Data understanding and exploration 
+* Data cleaning
+* Data preparation: Feature Engineering and Scaling
+* Feature Selection
+* Used Random Forest Regressor for prediction and RamdomizedSearchCV for hyperparametric tuning
 
 ## Deployment on Google cloud platform
 * Install and initialize the Cloud SDK. 
@@ -22,3 +22,4 @@
 2-style.css
 * templates/
 1-index.html
+** create the Github repository and clone it to the google cloud **
