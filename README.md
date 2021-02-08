@@ -21,5 +21,5 @@
 1-script.js
 2-style.css
 * templates/
-1-index.html. (space)
-** create the Github repository and clone it to the google cloud **
+1-index.html
+### create the Github repository and clone it to the google cloud 
